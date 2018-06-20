@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPFHttpClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFHttpClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Grid Name="theGrid">
+        <Button Name="getJSONstring" HorizontalAlignment="Left" Height="50" Width="100" Content="PRESS ME" Margin="100" Click="getJSONstring_Click"/>
+        <Button Name="distract" Height="50" Width="100" Content="CLICK ME! AFTER" HorizontalAlignment="Left" Margin="100,86,0,284.667" Click="distract_Click"/>
+        <TextBox Name="JSONstring" HorizontalAlignment="Right" Height="300" Width="300" Margin="100,10"/>
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="AsyncWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsyncWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Name="theGrid">
+        <StackPanel>
+            <TextBox Name="input" Height="20" Width="100" HorizontalAlignment="Left" Margin="20"/>
+            <Button Name="findPrime" Height="20" Width="100" Content="Find Prime" HorizontalAlignment="Left" Margin="20" Click="findPrime_Click"/>
+            <TextBox Name="result" Height="20" Width="200" HorizontalAlignment="Left" Margin="20"/>
+            <Button Name="distract" Height="20" Width="100" Content="??????????" HorizontalAlignment="Left" Margin="20" Click="distract_Click"/>
+
+
+        </StackPanel>
+    </Grid>
+</Window>

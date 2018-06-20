@@ -1,0 +1,15 @@
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\bin\Debug\HttpClient.exe.config
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\bin\Debug\HttpClient.exe
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\bin\Debug\HttpClient.pdb
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\HttpClientWPF.csprojResolveAssemblyReference.cache
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\MainWindow.g.cs
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\App.g.cs
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\HttpClient_MarkupCompile.cache
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\HttpClient_MarkupCompile.lref
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\MainWindow.baml
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\HttpClient.g.resources
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\HttpClientWPF.csproj.GenerateResource.cache
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\HttpClientWPF.csproj.CoreCompileInputs.cache
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\HttpClient.exe
+C:\Users\Gerry Ybanez\Desktop\Kristian\Async\Async\HttpClient\obj\Debug\HttpClient.pdb
